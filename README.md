@@ -8,3 +8,6 @@ se guerreiro -> no ataque exibir (usou espada)
 se monge -> no ataque exibir (usou artes marciais)  
 se ninja -> no ataque exibir (usou shuriken)  
 se boxeador -> no ataque exibir (usou as propias mãos)
+
+No final exibira uma mensagem mostrando o tipo de guerreiro  
+e o seu ataque.
